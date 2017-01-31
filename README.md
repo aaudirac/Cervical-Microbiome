@@ -1,2 +1,2 @@
-# Cervical-Microbiome
- This is a repository from a NGS 16S rRNA data sequencing from V3-V4
+# scripts to automize processes
+This scripts are a collection of routines I needed to automatize.
